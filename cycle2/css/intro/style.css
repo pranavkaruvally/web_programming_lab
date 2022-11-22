@@ -1,0 +1,26 @@
+body {
+    background-color: purple;
+}
+
+* {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+div.yellow {
+    background-color: yellow;
+    color: brown;
+    text-align: center;
+}
+
+#prop {
+    align: left;
+    height: 200px;
+    width: 220px;
+}
+
+img {
+    height: 65%;
+    width: 100%;
+}
